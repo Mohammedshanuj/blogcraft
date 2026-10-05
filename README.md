@@ -1,4 +1,4 @@
-# BlogProjects
+# BlogCraft — React Blogging Platform
 
 ### React blogging frontend with Markdown authoring and user authentication
 
